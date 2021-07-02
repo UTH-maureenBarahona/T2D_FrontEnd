@@ -26,8 +26,8 @@ a:focus {
 .tm-margin-b-0 { margin-bottom: 0; }
 .tm-margin-b-20 { margin-bottom: 20px; }
 .tm-p-4 { padding: 2rem!important; }
-.tm-color-white { color: white; }
-.tm-color-primary {	color: #ee5057; }
+.tm-color-white { color: #FA41CC; }
+.tm-color-primary {	color: #6920B0; }
 .tm-bg-primary { background: #ee5057; }
 .tm-bg-gray { background: #F4F4F4; }
 .tm-bg-white { background: white; }
@@ -48,7 +48,7 @@ a:focus {
 
 a.tm-color-primary:hover,
 a.tm-color-primary:active {
-	color: #d53239;
+	color: #ACDAFF;
 }
 
 .tm-font-light { font-weight: 300; }
@@ -96,7 +96,7 @@ p {
 .nav-link.active,
 .nav-link:hover {
 	color: white;
-	background: #ee5057;	
+	background: #ACDAFF;	
 }
 
 .tm-top-bar .navbar-expand-lg .navbar-nav .nav-link { padding: 50px 35px; }
@@ -175,7 +175,7 @@ p {
 }
 
 .btn-primary {
-	background-color: #ee5057;
+	background-color: #FA41CC;
 	border-color: #ee5057;
 	border-radius: 0;
 	cursor: pointer;
@@ -188,8 +188,8 @@ p {
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active {
-	background-color: #d53239;
-	border-color: #d53239;
+	background-color: #6920B0;
+	border-color: #ffff;
 }
 
 .tm-search-form .tm-form-element { padding: 0 5px; }
@@ -197,7 +197,7 @@ p {
 .tm-form-element:last-child { margin-right: 0; }
 
 .tm-form-element-icon {
-	color: #ee5057;
+	color: #FA41CC;
 	position: absolute;
 	top: 10px;
 	left: 15px;
@@ -250,13 +250,13 @@ select.tm-select::-ms-expand { display: none; }
 .tm-pb-4 { padding-bottom: 100px; }
 
 .tm-section-2 {
-	background: #ee5057;
+	background: #ACDAFF;
 	padding-top: 50px;
 	position: relative;
 }
 
 .tm-section-title {
-	color: white;
+	color: #6920B0;
 	font-size: 3rem;
 }
 
